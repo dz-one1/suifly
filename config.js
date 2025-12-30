@@ -284,8 +284,8 @@ const STORE_CONFIG = {
     "instagramUrl": "",
     "messengerUrl": "",
     "viberNumber": "",
-    "whatsappNumber": "213555555555",
-    "whatsappUrl": "https://wa.me/213555555555"
+    "whatsappNumber": "213666666666",
+    "whatsappUrl": "https://wa.me/213666666666"
   },
   "GOOGLE_SHEETS": {
     "url": "https://docs.google.com/spreadsheets/d/1B6um1tNw0Uh4NJvLjF5zUX6palzubXv1UeH5gSIt_Go/edit?gid=774585379#gid=774585379",
@@ -505,8 +505,8 @@ const STORE_CONFIG = {
   },
   "POINTS_SYSTEM": {
     "currentPoints": 498,
-    "remainingDays": 27,
-    "lastReset": "2025-12-30T17:26:31.086Z",
+    "remainingDays": 30,
+    "lastReset": "2025-12-30T17:33:54.743Z",
     "planType": "gratuit",
     "monthlyPoints": 500,
     "resetPeriod": 30,
@@ -584,7 +584,7 @@ const STORE_CONFIG = {
         "user": "admin"
       }
     ],
-    "lastUpdated": "2025-12-30T17:27:21.455Z"
+    "lastUpdated": "2025-12-30T17:34:45.131Z"
   },
   "PIXEL_CODES": {
     "facebook": {
