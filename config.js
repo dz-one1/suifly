@@ -504,7 +504,7 @@ const STORE_CONFIG = {
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 488,
+    "currentPoints": 484,
     "remainingDays": 30,
     "lastReset": "2025-12-30T17:33:54.743Z",
     "planType": "gratuit",
@@ -584,7 +584,7 @@ const STORE_CONFIG = {
         "user": "admin"
       }
     ],
-    "lastUpdated": "2025-12-30T17:40:30.808Z"
+    "lastUpdated": "2025-12-30T17:56:50.693Z"
   },
   "PIXEL_CODES": {
     "facebook": {
