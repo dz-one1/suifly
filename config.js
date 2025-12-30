@@ -259,12 +259,12 @@ const STORE_CONFIG = {
     ]
   },
   "DISCOUNTS": {
-    "enableQuantityDiscount": true,
+    "enableQuantityDiscount": false,
     "minQuantityForDiscount": 1,
     "discountPerItem": 500,
-    "discountScope": "selected",
+    "discountScope": "all",
     "discountProducts": [],
-    "enablePromotionalDiscount": true,
+    "enablePromotionalDiscount": false,
     "promotionalDiscountPercent": 20,
     "promotionalDiscountedPrice": null,
     "promoDiscountScope": "selected",
@@ -274,21 +274,21 @@ const STORE_CONFIG = {
     "name": " For You and You",
     "storeIcon": "-",
     "storeTitle": "-",
-    "tagline": "أحدث الموديلات لسنة 2026",
+    "tagline": "أحدث موديلات الأطفال لسنة 2026",
     "phoneNumbers": [
-      "0666666666",
-      "0555555555"
+      "0671466489",
+      "0551102155"
     ],
-    "logo": "",
-    "facebookUrl": "",
+    "logo": "https://raw.githubusercontent.com/dz-one1/suifinano/main/images/store-logo-1766874306292-Screenshot-20251225-115112-Gallery.jpg",
+    "facebookUrl": "https://www.facebook.com/groups/3131209233768404/?ref=share&mibextid=NSMWBT",
     "instagramUrl": "",
     "messengerUrl": "",
     "viberNumber": "",
-    "whatsappNumber": "213555555555",
-    "whatsappUrl": "https://wa.me/213555555555"
+    "whatsappNumber": "213671466489",
+    "whatsappUrl": "https://wa.me/213671466489"
   },
   "GOOGLE_SHEETS": {
-    "url": "",
+    "url": "https://docs.google.com/spreadsheets/d/1B6um1tNw0Uh4NJvLjF5zUX6palzubXv1UeH5gSIt_Go/edit?gid=774585379#gid=774585379",
     "description": "  جدول الطلبات",
     "autoUpdate": true
   },
@@ -504,9 +504,9 @@ const STORE_CONFIG = {
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 478,
-    "remainingDays": 30,
-    "lastReset": "2025-12-30T17:33:54.743Z",
+    "currentPoints": 935,
+    "remainingDays": 27,
+    "lastReset": "2025-12-27T15:11:46.066Z",
     "planType": "gratuit",
     "monthlyPoints": 500,
     "resetPeriod": 30,
@@ -584,7 +584,7 @@ const STORE_CONFIG = {
         "user": "admin"
       }
     ],
-    "lastUpdated": "2025-12-30T18:04:47.240Z"
+    "lastUpdated": "2025-12-30T22:12:23.305Z"
   },
   "PIXEL_CODES": {
     "facebook": {
