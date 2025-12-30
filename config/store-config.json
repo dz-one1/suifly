@@ -499,7 +499,7 @@
     }
   },
   "POINTS_SYSTEM": {
-    "currentPoints": 935,
+    "currentPoints": 931,
     "remainingDays": 27,
     "lastReset": "2025-12-27T15:11:46.066Z",
     "planType": "gratuit",
@@ -579,7 +579,7 @@
         "user": "admin"
       }
     ],
-    "lastUpdated": "2025-12-30T22:12:21.198Z"
+    "lastUpdated": "2025-12-30T22:18:46.288Z"
   },
   "PIXEL_CODES": {
     "facebook": {
